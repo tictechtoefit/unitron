@@ -422,6 +422,29 @@ header .social-icon li a
 }
 /* end portfolio */
 
+/* start sponsor */
+#sponsor
+	{
+		padding-bottom: 80px;
+	}
+#sponsor .col-md-3
+	{
+		padding: 0px;
+	}
+	.portfolio-thumb, 
+	.portfolio-overlay {
+		max-width: 450px;
+	}
+#sponsor .portfolio-thumb
+	{
+		overflow: hidden;
+		padding: 0;
+		margin: 5px 5px;
+	}
+
+
+/* end sponsor */
+
 /* start contact */
 #contact
 	{
